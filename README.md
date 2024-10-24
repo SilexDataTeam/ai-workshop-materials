@@ -26,7 +26,7 @@
 - **LLM Generation Parameters**
     - Temperature, Top-P, Top-K, # of output tokens
 - **OpenAI API**
-    - OpenAI ChatCompletion API
+    - ChatCompletion API
 - **Agent Frameworks**
     - LangChain Overview
     - LangChain Code Example
