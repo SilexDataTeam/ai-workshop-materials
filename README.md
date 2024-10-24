@@ -4,7 +4,7 @@
 
 # GenAI & RAG Workshop
 
-## Outline
+## Agenda
 
 ### 1. What is an LLM
 - **State of LLMs**
