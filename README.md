@@ -40,7 +40,7 @@
 - **Private Model Serving**
 - **Local Model Serving (Ollama)**
     - LangChain Example
-- **vLLM Overview**
+- **Production Model Serving: vLLM Overview**
 - **Installing vLLM**
 - **vLLM Code Examples**
     - Tool Calling
