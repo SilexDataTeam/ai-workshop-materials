@@ -6,15 +6,14 @@
 
 ## Agenda
 
-### 1. What is an LLM
-- **State of LLMs**
-- **GenAI Use Cases**
+### 1. What is an LLM?
+- **Importance of GenAI & RAG**
+- **LLM Fundamentals & Limitations**
 - **Tokenization**
 - **Embeddings**
-- **Transformer/Feed Forward**
-- **Logits/Next Token Prediction**
-- **Quantization**
-- **Exercises**
+- **Transformer Architecture, Self-Attention, and Multi-Head Attention**
+- **Next Token Prediction**
+- **Economics & Trends**
 
 ### 2. Using an LLM
 - **Prompts**
@@ -50,34 +49,39 @@
 ### 4. RAG Architecture
 - **Why RAG?**
 - **Simplified RAG Data Flow**
+- **Traditional vs Semantic Search**
+- **Embedding Models**
 - **Components to Build a Scalable, Public or Private Cloud RAG Platform**
     - Vector Store
     - Model API/Gateway
     - Retriever/Context Construction
-    - Caches (retrieval & model)
+    - Caches (Retrieval & Model)
     - Tools
     - Input/Output Guardrails
     - Routing 
     - Grading/Scoring
     - Logging/Monitoring & Analytics
+- **Advanced RAG Architectures**
 
-### 5. Evaluation
+### 5. Implementing RAG
+- **Using Embeddings w/ LangChain**
+- **Using and Searching Vector Stores w/ LangChain**
+- **Loading Documents into a Vector Store**
+- **Document Chunking & Text Splitting**
+- **Context Construction**
+- **Agentic RAG**
+
+### 6. Evaluation
 - **Purpose of Evaluation**
-- **Methods of Evaluation**
-    - Direct vs. Pair-wise Comparison
+- **Not All Questions are Equal**
+- **Evaluation Process**
 - **Metrics**
-    - Faithfulness
-    - Answer Correctness
-    - Answer Relevance
-    - Answer Semantic Similarity
     - Context Precision
     - Context Recall
-- **Tools**
-    - RAGAS
-        - Synthetic Evaluation Data Generation
-
-### 6. Implementing RAG
-- **Vector Database and Retrieval for Context Construction**
-- **Model Calling**
-- **Implementing Grading/Routing/Guardrails with LangGraph**
-- **Evaluation Techniques**
+    - Context Entities Recall
+    - Response Relevancy
+    - Faithfulness
+    - Tool Call Accuracy
+    - Factual Correctness
+- **Evaluation Pipeline**
+- **Synthetic Data Generation for Evaluation**
