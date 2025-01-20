@@ -17,3 +17,4 @@ transformers==4.48.0
 matplotlib==3.10.0
 langchain-unstructured[local]==0.1.6
 langgraph==0.2.64
+bitsandbytes==0.45.0
