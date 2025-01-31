@@ -9,7 +9,7 @@ updates:
     directories:
       - "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     groups:
       python-packages:
         patterns:
