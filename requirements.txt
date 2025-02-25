@@ -1,11 +1,11 @@
-openai==1.63.2
+openai==1.64.0
 langchain==0.3.19
-langchain-community==0.3.17
-langchain-core==0.3.35
-langchain-openai==0.3.6
+langchain-community==0.3.18
+langchain-core==0.3.39
+langchain-openai==0.3.7
 langchain-text-splitters==0.3.6
 langchain-ollama==0.2.3
-vllm==0.7.2
+vllm==0.7.3
 pypdf==5.3.0
 wikipedia==1.4.0
 markitdown==0.0.1a4
@@ -16,5 +16,5 @@ rapidfuzz==3.12.1
 transformers==4.49.0
 matplotlib==3.10.0
 langchain-unstructured[local]==0.1.6
-langgraph==0.2.73
-bitsandbytes==0.45.2
+langgraph==0.2.74
+bitsandbytes==0.45.3
