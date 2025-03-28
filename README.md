@@ -6,7 +6,7 @@
 
 ## Agenda
 
-### 1. What is an LLM?
+### 1. LLM Fundamentals
 - **Importance of GenAI & RAG**
 - **LLM Fundamentals & Limitations**
 - **Tokenization**
@@ -15,7 +15,7 @@
 - **Next Token Prediction**
 - **Economics & Trends**
 
-### 2. Using an LLM
+### 2. Practical Use of LLMs
 - **Prompts**
 - **Prompt Engineering**
     - Zero-shot
@@ -46,7 +46,7 @@
     - Structured Output
 - **Exercises**
 
-### 4. RAG Architecture
+### 4. RAG/Agentic Architectures
 - **Why RAG?**
 - **Simplified RAG Data Flow**
 - **Traditional vs Semantic Search**
@@ -63,7 +63,7 @@
     - Logging/Monitoring & Analytics
 - **Advanced RAG Architectures**
 
-### 5. Implementing RAG
+### 5. Implementing RAG & Agents
 - **Using Embeddings w/ LangChain**
 - **Using and Searching Vector Stores w/ LangChain**
 - **Loading Documents into a Vector Store**
