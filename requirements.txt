@@ -1,7 +1,7 @@
 openai==1.75.0
 langchain==0.3.23
 langchain-community==0.3.21
-langchain-core==0.3.54
+langchain-core==0.3.55
 langchain-openai==0.3.14
 langchain-text-splitters==0.3.8
 langchain-ollama==0.3.2
