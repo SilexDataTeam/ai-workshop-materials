@@ -16,5 +16,5 @@ rapidfuzz==3.13.0
 transformers==4.55.2
 matplotlib==3.10.1
 langchain-unstructured[local]==0.1.6
-langgraph==0.6.5
+langgraph==1.0.10rc1
 bitsandbytes==0.47.0
